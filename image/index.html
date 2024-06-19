@@ -27,7 +27,7 @@
             javascript is a programming language it  makes the page intgeracti ve and responsi ve and if you try to understand it you can try it.
         </p>
         <img src="../image/pc1.jpg" alt="Workplace" usemap="#workmap" width="400" height="379">
-        <abbr title="world health organization">WHO</abbr>all the health organization follow it's guideline.
+        <abbr title="world health organization">WHO</abbr> the health organization follow it's guideline.
         <address>
 Written by <a href="mailto:webmaster@example.com">Adam taylor</a>.<br>
 Visit us at:<br>
@@ -53,9 +53,9 @@ USA
   <p>This paragraph will go left-to-right.</p>  
   <p><bdo dir="rtl">This paragraph will go right-to-left.</bdo></p>  
    <h1>audio tag</h1>
-<audio controls>
-    <source src="../image/agressive-bees-45822.mp3" type="audio/ogg">
-    <source src="../image/agressive-bees-45822.mp3" type="audio/mpeg">
+   <audio controls>
+    <source src="../image/audio/agressive-bees-45822.ogg" type="audio/ogg">
+    <source src="../image/audio/agressive-bees-45822.mp3" type="audio/mp3">
     Your browser does not support the audio tag.
   </audio>
 <h1>blockqoute tag</h1>
@@ -187,6 +187,56 @@ USA
     <area shape="rect" coords="290,172,333,250" alt="CPU" href="../image/cpu.webp">
     <area shape="circle" coords="337,300,44" alt="Mouse" href="../image/mouse.jpg">
   </map>
+  <h1>The input element</h1>
+
+<form action="#" method="post">
+  <label for="fname">First name:</label>
+  <input type="text" id="fname" name="fname"><br><br>
+  <label for="lname">Last name:</label>
+  <input type="text" id="lname" name="lname"><br><br>
+  <input type="checkbox" id="Subject1" name="Subject1" value="English">
+  <label for="Subject1"> I Choose English</label><br>
+  <input type="checkbox" id="Subject2" name="Subject2" value="Social Studies">
+  <label for="Subject2"> I Choose Social Studies</label><br>
+  <input type="checkbox" id="Subject3" name="Subject3" value="Mathematics">
+  <label for="Subject3"> I choose Mathemtaics</label><br><br>
+  <label for="Exam Day">Exam Day</label>
+  <input type="date" id="Exam" name="Examday">
+  <label for="Functiontime">Function (date and time):</label>
+  <input type="datetime-local" id="functiontime" name="Functiontime">
+  <label for="emails">Enter email addresses:</label>
+  <input type="email" id="emails" name="emails" multiple>
+  <label for="myfile">Select files:</label>
+  <input type="file" id="myfile" name="myfile" multiple><br><br>
+  <label for="fname">First name:</label>
+  <input type="text" id="fname" name="fname"><br><br>
+  <input type="hidden" id="custId" name="custId" value="3487">
+  <input type="image" src="../image/hh11.jpg" alt="Submit" width="48" height="48">
+  <label for="bdaymonth">Birthday (month and year):</label>
+  <input type="month" id="bdaymonth" name="bdaymonth">
+  <label for="quantity">Quantity (between 1 and 5):</label>
+  <input type="number" id="quantity" name="quantity" min="1" max="5">
+  <label for="pwd">Password:</label>
+<input type="password" id="pwd" name="pwd">
+<input type="radio" id="html" name="fav_language" value="HTML">
+<label for="html">HTML</label><br>
+<input type="radio" id="css" name="fav_language" value="CSS">
+<label for="css">CSS</label><br>
+<input type="radio" id="javascript" name="fav_language" value="JavaScript">
+<label for="javascript">JavaScript</label>
+<label for="pin">Enter a PIN:</label>
+  <input type="text" id="pin" name="pin" maxlength="4"><br><br>  
+  <label for="gsearch">Search Google:</label>
+  <input type="search" id="gsearch" name="gsearch">
+  
+
+
+
+
+  <input type="submit" value="Submit">
+</form>
+
+
         <script src="" async defer></script>
     </body>
 </html>
