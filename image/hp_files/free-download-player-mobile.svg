@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="13px" viewBox="0 0 14 13" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 2</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Browser-Mobile" transform="translate(-186.000000, -845.000000)" fill="#8BC000">
+            <g id="Group-2" transform="translate(186.000000, 845.000000)">
+                <polygon id="Triangle" transform="translate(7.000000, 6.533333) scale(1, -1) translate(-7.000000, -6.533333) " points="7 4.66666667 10.2666667 8.4 3.73333333 8.4"></polygon>
+                <rect id="Rectangle" x="5.6" y="0" width="2.8" height="5.6"></rect>
+                <rect id="Rectangle" x="0" y="9.33333333" width="14" height="2.8"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

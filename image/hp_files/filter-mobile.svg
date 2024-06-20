@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="12px" viewBox="0 0 18 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>filter</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="filter" transform="translate(1.000000, 0.500000)" stroke="#6E6E6E">
+            <g id="Group-9" transform="translate(8.000000, 5.368421) scale(-1, 1) translate(-8.000000, -5.368421) ">
+                <g id="Group-5">
+                    <polyline id="Line-6" stroke-width="1.5" stroke-linecap="square" points="-1.31340109e-16 2.02631579 8 2.02631579 16 2.02631579"></polyline>
+                    <circle id="Oval" fill="#FFFFFF" fill-rule="nonzero" cx="4.85294118" cy="2" r="2"></circle>
+                </g>
+                <g id="Group-4" transform="translate(8.000000, 8.736842) scale(-1, 1) translate(-8.000000, -8.736842) translate(0.000000, 6.736842)">
+                    <polyline id="Line-6" stroke-width="1.5" stroke-linecap="square" transform="translate(8.000000, 2.271053) scale(-1, 1) translate(-8.000000, -2.271053) " points="0 2.271053 8 2.271053 16 2.271053"></polyline>
+                    <circle id="Oval" fill="#FFFFFF" fill-rule="nonzero" transform="translate(4.852941, 2.000000) scale(-1, 1) translate(-4.852941, -2.000000) " cx="4.85294082" cy="2" r="2"></circle>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
