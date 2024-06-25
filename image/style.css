@@ -1,0 +1,12 @@
+
+
+h1:hover{
+    transition: width 2s;
+    width: 300px;
+}
+.h1{
+    width: 100px;
+    height: 100px;
+    background: rgb(204, 198, 198);
+}
+
